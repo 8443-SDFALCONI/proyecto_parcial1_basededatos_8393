@@ -13,4 +13,4 @@ En el presente repositorio se almacena el código fuente de Python utilizado par
 - Random
 - UUID
 
-En esta carpeta se puede encontrar las imágenes de las tablas de resultados obtenidas al ejecutar el código de Python.
+En esta carpeta se puede encontrar la imagen del DER realizada a mano.
